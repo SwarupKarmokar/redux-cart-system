@@ -2,6 +2,8 @@
 
 This is a simple product cart system built using Redux Toolkit. It allows users to add and remove products to/from a shopping cart and view the total cost of the items in the cart.
 
+Deployed Link: https://redux-toolkit-cart-system.netlify.app/
+
 ## Features
 
 - Add products to cart.
